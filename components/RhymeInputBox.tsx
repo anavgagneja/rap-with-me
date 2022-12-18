@@ -24,6 +24,29 @@ function RhymeInputBox() {
     "#eff4f2",
     "#d4b1f7",
     "#d8f698",
+    "#FFEB3B", // yellow
+    "#4CAF50", // green
+    "#E91E63", // pink
+    "#9C27B0", // purple
+    "#FFFFFF", // white
+    "#00BCD4", // cyan
+    "#FFC107", // amber
+    "#FF5722", // deep orange
+    "#FF9800", // orange
+    "#C0C0C0", // silver
+    "#2196F3", // blue
+    "#03A9F4", // light blue
+    "#00FF00", // lime
+    "#0000FF", // blue
+    "#000000", // black
+    "#800080", // purple
+    "#FF00FF", // magenta
+    "#800000", // maroon
+    "#FFFF00", // yellow
+    "#008000", // green
+    "#00FFFF", // cyan
+    "#000080", // navy
+    "#FFA500", // orange
   ];
   const [inputList, setInputList] = useState<string[]>([]);
   const [rhymeList, setRhymeList] = useState<Rhymes[]>([]);
