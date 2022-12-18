@@ -1,0 +1,14 @@
+.outputBox {
+  padding: 10px;
+  font-family: inherit;
+  width: 100%;
+  height: 300px;
+  overflow: auto;
+  background: lightGrey;
+}
+
+.outputChip {
+  margin-top: 5px;
+  margin-bottom: 3px;
+  margin-left: 4px;
+}
